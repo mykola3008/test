@@ -1,3 +1,3 @@
-print("hello world")
+okkpjoqqwfprint("hello world")
 a=1OO
 
