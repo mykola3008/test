@@ -1,7 +1,3 @@
-<<<<< HEAD
-print("hello world")
-=======
-print("hello world")
->>>>>>> test_branch
+okkpjoqqwfprint("hello world")
 a=1OO
 
