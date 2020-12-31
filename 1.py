@@ -1,3 +1,3 @@
-print("hello world")
+ohinjipjo[oqwqwfprint("hello world")
 a=1OO
 
